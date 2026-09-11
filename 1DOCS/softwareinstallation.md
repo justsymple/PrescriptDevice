@@ -5,7 +5,7 @@ But first, some software will be needed before we can continue.
 ### Software to install:
 - Microsoft Visual Studio Code ([Link](https://code.visualstudio.com/))
 - PlatformIO IDE Extension (found in the extension store for VSCode)
-- And don't forget to download the source code and extract it for this project! ([Link](add link to releases page))
+- And don't forget to download the source code and extract it for this project! ([Link]([add link to releases page](https://github.com/justsymple/PrescriptDevice/releases/tag/release))
 
 Once you have everything installed and set up, the installation should be pretty simple.
 
