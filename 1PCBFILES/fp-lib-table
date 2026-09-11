@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "t-display-s3") (type "KiCad") (uri "C:/Users/symple/Downloads/t-display-s3-footprint-main/t-display-s3.pretty") (options "") (descr ""))
+	(lib (name "Two_Pin_Through_Hole_Push_Button") (type "KiCad") (uri "${TWO_PIN_THROUGH_HOLE_PUSH_BUTTON}/Footprints/Two_Pin_Through_Hole_Push_Button.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+)
