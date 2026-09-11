@@ -13,7 +13,7 @@ This project has:
 
 ---
 Disclaimer:
-This project was 100% human made, no AI was used in the process and never will be. All of the questionable decisions were made by yours truly!!!! If you would like to support me so I can make more things, please consider tipping me on my [Ko-Fi](https://ko-fi.com/just_symple)!
+This project was 100% human made, no AI was used in the process and never will be. All of the questionable decisions were made by yours truly!!!!
 
 ## Materials required to get this project up and running:
 
