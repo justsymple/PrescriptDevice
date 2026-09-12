@@ -25,7 +25,7 @@ This project was 100% human made, no AI was used in the process and never will b
 ## Optional materials:
 - The [custom PCB](1DOCS/pcbinfo.md) and access to a soldering iron and solder
 - A 501240 220mAH battery (ensure the polarity is correct before plugging into the board)
-- Access to a 3D printer to print the custom case [(link to the STL files for printing)](/1CASEFILES)
+- Access to a 3D printer to print the custom case
 
 ## Guides:
 ### Wiring Guide: [click here!](1DOCS/wiring.md)
